@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Rajesh 👋
 
-<!--
-**rapith777/rapith777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer · Automation & System Integration · Python/FastAPI
 
-Here are some ideas to get you started:
+I build reliable backend services and integrate real-world systems like robots,
+sensors and industrial devices into clean, maintainable APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+
+- **Languages:** Python, C++, Java, C  
+- **Backend & APIs:** FastAPI, REST, JSON-RPC, ASGI (Uvicorn)  
+- **Automation & Communication:** OPC UA, TCP/IP, CAN-Bus, ROS  
+- **Infra & Tools:** Docker, Git, CI/CD, Linux  
+- **Concepts:** Distributed systems, async workflows, data processing
+
+### 📌 What I work on
+
+- Modular backends for robotics and lab automation  
+- Integration of hardware, controllers and backend services  
+- Clean API design, data modelling with Pydantic  
+- Reliable, testable and maintainable system architectures
+
+### 📫 Contact
+
+- Email: **rajeshpithani777@gmail.com**
+- Location: **Jülich / Cologne area, Germany (open to relocation)**
